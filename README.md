@@ -1,24 +1,82 @@
-# Welcome to my Github profile
+# ANTHONY JARA BUSTAMANTE
 
-I am a **specialized mobile developer** with experience in developing **hybrid mobile applications** for Android and IOS, as well as **back-end development** using Node.js and Express. I use frameworks such as **Flutter and Ionic 4 Angular** for client-side (front-end) hybrid applications and web applications with technologies like Node.js and Express. I have a **degree in Systems Engineering** and am highly skilled in **learning new technologies**, highly **responsible** and a great **team player**. I have a passion for **programming**, particularly in **mobile devices**. I have an **advanced level of English** and am committed to **achieving goals**.
+- **DNI:** 73590624
+- **Dirección:** Urb. Juan el Bueno Mz. D Lote 9 Sección 1 Cercado, Arequipa, Arequipa, Perú
+- **Celular:** +51 937 386 230
+- **Correo:** anthonyjosue2@hotmail.com
+- **Fecha de Nacimiento:** 25 de Mayo 1994
+- **Edad:** 29 años
 
-**Gas to you**: A mobile application developed using Flutter for distributing gasoline in Puerto Rico. It uses geolocation and Google Maps, login with Facebook and Google, Stripe payment gateway, Pusher notifications, and a real-time chat. [Facebook](https://www.facebook.com/gastoyoupr/) |
+---
+### PERFIL
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://raw.githubusercontent.com/AnthoJaraBustamante/devanthojb/master/assets/01.jpg" width="150px" height="300px">
-</div>
+Egresado en la Carrera de Ingeniería de Sistemas. Provisto de alta capacidad de aprendizaje, mucha responsabilidad y buen trabajo en equipo. La Programación es una de mis pasiones, especialmente en dispositivos móviles. Poseo nivel avanzado de Inglés y estoy comprometido con el logro de objetivos.
+---
+### HABILIDADES
 
-- **Zurviz**: A mobile application developed using Flutter, currently available on the Playstore. It is intended for taking recorded or live classes via video call. It uses Jitsi Meet for video calls, CloudFlare for accessing videos, Coneckta and Paypal as payment methods and login with Google and Facebook. [Facebook](https://www.facebook.com/Zurviz-113722483788313/) [Playstore](https://play.google.com/store/apps/details?id=com.zurviz&hl=es)
-<div style="display: flex; justify-content: center;">
-  <img src="https://raw.githubusercontent.com/AnthoJaraBustamante/devanthojb/master/assets/02.jpg" width="150px" height="300px">
-</div>
+- Responsabilidad.
+- Trabajo en equipo.
+- Autodidacta.
+---
+### HERRAMIENTAS INFORMÁTICAS
 
-- **Vetko**: A mobile application developed using Flutter. Its goal is to schedule veterinary services such as grooming, training, boarding, transportation, general consultation, among others. It uses social media login (Google and Facebook), video calls for consultations using Agora.io, location and routing with Google Maps, taking photos, and screenshots using the device hardware, and real-time notifications with Firebase. Currently available on the Playstore. [Playstore](https://play.google.com/store/apps/details?id=vetko.pet.proveedores&hl=es)
-<div style="display: flex; justify-content: center;">
-  <img src="https://raw.githubusercontent.com/AnthoJaraBustamante/devanthojb/master/assets/03.jpg" width="150px" height="300px">
-</div>
+- Ofimática (Autoedición, Procesadores de texto, Hojas de cálculo, etc.)
+- Diseño (Photoshop, Corel Draw, GIMP, Inkscape)
+- Lenguajes de Programación (C/C++, Java, JavaScript, Dart, Python, SQL, etc.)
+- Sistemas Operativos (Windows, Linux)
+- IDE’s (Visual Studio Code, Android Studio, XCode)
+- Gestión de Base de Datos (SQL y NoSQL)
+---
+### IDIOMAS
 
-- **Instadosis**: A mobile application that calculates the dose of drugs instantly. Uses local database storage using the Hive package. Notifications with Firebase. [Instadosis](https://instadosis.com)
- <div style="display: flex; justify-content: center;">
-  <img src="https://raw.githubusercontent.com/AnthoJaraBustamante/devanthojb/master/assets/05.jpg" width="150px" height="300px">
-</div>
+- Inglés Avanzado.
+
+---
+### EDUCACIÓN
+
+- **2016:** Ingeniería de Sistemas - Universidad Néstor Cáceres Velásquez, Arequipa.
+- **2015:** Programa English Language Teaching (ELT) - Instituto Thomas Jefferson, Arequipa.
+- **2012 - 2015:** Idioma Inglés - Centro Cultural Peruano Norteamericano, Arequipa.
+
+---
+### EXPERIENCIA PROFESIONAL
+---
+### Programador Mobile Flutter | Rodmensoft E.I.R.L
+
+**Mayo 2020 - Marzo 2023**
+
+- Desarrollé aplicaciones móviles híbridas para Android e iOS utilizando Flutter e Ionic 4 Angular, así como desarrollo backend con Node.js y Express.
+- Participé en el desarrollo de 15 aplicaciones móviles destacadas, entre las cuales se encuentran:
+
+1. **Zurviz**: Aplicación móvil desarrollada en Flutter, actualmente disponible en Play Store. Diseñada para acceder a clases grabadas o en tiempo real a través de videollamadas. Utiliza Jitsi Meet para las videollamadas, CloudFlare para la reproducción de videos, Coneckta y Paypal como métodos de pago, e inicio de sesión con Google y Facebook.
+   - Facebook: [Zurviz](https://www.facebook.com/Zurviz-113722483788313/)
+   - Play Store: [Zurviz en Play Store](https://play.google.com/store/apps/details?id=com.zurviz&hl=es)
+
+2. **Vetko**: Aplicación móvil desarrollada en Flutter. Permite agendar servicios veterinarios como peluquería, entrenamiento, guardería, transporte y consultas generales. Incluye inicio de sesión mediante redes sociales (Google y Facebook), videollamadas para consultas utilizando Agora.io, ubicación y trazado de rutas con Google Maps, captura de fotografías y pantallas mediante el hardware del dispositivo, y notificaciones en tiempo real con Firebase. Actualmente disponible en Play Store.
+   - Play Store: [Vetko en Play Store](https://play.google.com/store/apps/details?id=vetko.pet.proveedores&hl=es)
+
+3. **Instadosis**: Aplicación móvil que calcula la dosis de medicamentos de forma instantánea. Utiliza almacenamiento en base de datos local mediante el paquete Hive, y notificaciones con Firebase.
+   - Sitio web: [Instadosis](https://instadosis.com)
+
+4. **Gas to You**: Aplicación móvil desarrollada para una startup en Puerto Rico. El objetivo era entregar gasolina mediante cisternas a través de un servicio de delivery. La aplicación incluía inicio de sesión con Facebook, Google y Apple, geolocalización con Google Maps, y notificaciones push con Pusher.
+
+5. **Rumi Match**: Aplicación móvil para encontrar o alquilar departamentos o viviendas, así como compañeros de cuarto. Utiliza inicio de sesión con redes sociales.
+
+6. **Avanzame Plus**: Aplicación móvil que utiliza Google Maps como principal medio para ver proyectos relacionados con la gestión integral de proyectos del sector minero energético.
+
+7. **Siente App**: Aplicación móvil que utiliza Google Maps como principal medio para ver proyectos relacionados con el Sistema Nacional de Gestión del Riesgo de Desastres en Colombia.
+
+8. **Ibario**: Aplicación móvil para pedidos de restaurantes. Utiliza escáner QR y verificación de teléfono vía mensajería OTP.
+
+9. **Quickdule**: Aplicación móvil para agendar reuniones y llamadas con clientes para la venta de ciertos productos. Utiliza Firebase para las notificaciones push, ejecución en segundo plano y alarmas.
+
+10. **Lander Network**: Realicé correcciones en el código fuente de la aplicación. Esta aplicación es para una empresa mexicana operadora de telecomunicaciones y consume una API de backend desarrollada en PHP.
+
+11. **Passdi**: Aplicación móvil para canjear puntos de viajes en avión. Utiliza inicio de sesión con redes sociales y Google Maps.
+
+---
+### Programador Mobile Flutter | Divelia
+
+**Diciembre 2022 - Febrero 2023**
+
+- Trabajé como Freelance para un proyecto en esta empresa. Requería migrar una app hecha en Ionic 4 a Flutter. Desplegué la app en la App Store con el nombre de Medik Quiz.
